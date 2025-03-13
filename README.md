@@ -1,6 +1,6 @@
 # ml_dataprocessing
 
-the model implements data cleaning and predicts outcomes based on linear regression
+The model implements data cleaning and predicts outcomes based on linear and logistic regression
 
 1st File contains Basic Linear Regression
 
